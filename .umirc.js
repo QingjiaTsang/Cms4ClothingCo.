@@ -17,7 +17,7 @@ export default defineConfig({
     {
       name: '原料及工艺管理',
       path: '/material-management',
-      component: './materialManagement',
+      component: './MaterialManagement',
     },
     // {
     //   name: '首页',
